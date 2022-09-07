@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LercioL
+- 👋 Hi, I’m @llercio
 - 👀 I’m interested in: for now, i'll wil leave this in blank
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to estudy and one day work with coding. It is a long way, tho.
