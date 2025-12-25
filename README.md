@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Sou o **Lercio**, apaixonado por tecnologia e em busca do conhecimento na área de programação, direto de **Parnamirim, Brasil** 🇧🇷
+Olá! Sou o **Lercio**, apaixonado por tecnologia e em busca do conhecimento na área de programação
 
 - 🌱 Atualmente aprendendo os fundamentos da programação
 - 💡 Explorando desenvolvimento web, algoritmos e engenharia de software
@@ -20,8 +20,6 @@ Olá! Sou o **Lercio**, apaixonado por tecnologia e em busca do conhecimento na 
 
 
 ## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
 
 <div align="center">
 
@@ -49,15 +47,29 @@ Olá! Sou o **Lercio**, apaixonado por tecnologia e em busca do conhecimento na 
 
 </div>
 
-
-
-## 📊 Estatísticas do GitHub
+## 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llercio&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llercio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+
+### 🔥 Minha Jornada de Desenvolvimento
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=llercio&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
+
+## 🎯 Objetivos de Aprendizado
+
+```javascript
+const lercio = {
+    localização: "Brasil 🇧🇷",
+    educação: "Estudante de Programação",
+    aprendendo: ["Java", "JavaScript", "Web Development"],
+    interessadoEm: ["Full Stack", "Backend", "DevOps"],
+    hobbies: ["Tecnologia", "Aprender", "Resolver Problemas"],
+    frase: "Código limpo não é escrito seguindo regras. Você não se torna um programador apenas escrevendo código limpo, mas praticando muito!"
+};
+```
 
 ## 📫 Vamos Conectar!
 
@@ -81,7 +93,6 @@ Olá! Sou o **Lercio**, apaixonado por tecnologia e em busca do conhecimento na 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
 </div>
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
